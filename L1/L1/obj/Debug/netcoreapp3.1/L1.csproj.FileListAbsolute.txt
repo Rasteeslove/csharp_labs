@@ -1,0 +1,11 @@
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.exe
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.deps.json
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.json
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.dev.json
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.dll
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\bin\Debug\netcoreapp3.1\L1.pdb
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\obj\Debug\netcoreapp3.1\L1.csprojAssemblyReference.cache
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfoInputs.cache
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfo.cs
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\obj\Debug\netcoreapp3.1\L1.dll
+C:\Users\krast\Documents\CSharp_Projects\L1\L1\obj\Debug\netcoreapp3.1\L1.pdb
