@@ -1,0 +1,13 @@
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.csprojAssemblyReference.cache
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.AssemblyInfoInputs.cache
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.AssemblyInfo.cs
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.csproj.CoreCompileInputs.cache
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.exe
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.deps.json
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.runtimeconfig.json
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.runtimeconfig.dev.json
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.dll
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\bin\Debug\netcoreapp3.1\L3568.pdb
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.dll
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.pdb
+C:\Users\krast\Desktop\csharp_labs\L3568\L3568\obj\Debug\netcoreapp3.1\L3568.genruntimeconfig.cache
