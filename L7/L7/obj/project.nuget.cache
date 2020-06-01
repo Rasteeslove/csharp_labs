@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7f8yIxjHXolmGDdYA/8dryBVNLkO8lS6BsvTu0L/6EfoDOGrH31RVP1LrVvw3yqKGAZ1VcSJjqD9hJVeHBp5Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krast\\Desktop\\L7\\L7\\L7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

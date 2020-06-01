@@ -1,0 +1,13 @@
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.exe
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.deps.json
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.runtimeconfig.json
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.runtimeconfig.dev.json
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.dll
+C:\Users\krast\Desktop\L7\L7\bin\Debug\netcoreapp3.1\L7.pdb
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.csprojAssemblyReference.cache
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.AssemblyInfoInputs.cache
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.AssemblyInfo.cs
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.csproj.CoreCompileInputs.cache
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.dll
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.pdb
+C:\Users\krast\Desktop\L7\L7\obj\Debug\netcoreapp3.1\L7.genruntimeconfig.cache
