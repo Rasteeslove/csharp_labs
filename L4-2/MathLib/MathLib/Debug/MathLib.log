@@ -1,0 +1,17 @@
+﻿  MathLib.cpp
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(7,1): warning C4273: 'Add': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(9,32): message : see previous definition of 'Add'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(12,1): warning C4273: 'Subtract': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(10,32): message : see previous definition of 'Subtract'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(17,1): warning C4273: 'Multiply': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(11,32): message : see previous definition of 'Multiply'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(22,1): warning C4273: 'Division': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(12,34): message : see previous definition of 'Division'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(27,1): warning C4273: 'Power': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(13,32): message : see previous definition of 'Power'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(33,1): warning C4273: 'GCD': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(14,32): message : see previous definition of 'GCD'
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.cpp(47,1): warning C4273: 'LCM': inconsistent dll linkage
+C:\Users\krast\Desktop\MathLib\MathLib\MathLib.h(15,32): message : see previous definition of 'LCM'
+     Creating library C:\Users\krast\Desktop\MathLib\Debug\MathLib.lib and object C:\Users\krast\Desktop\MathLib\Debug\MathLib.exp
+  MathLib.vcxproj -> C:\Users\krast\Desktop\MathLib\Debug\MathLib.dll
